@@ -1,0 +1,36 @@
+
+.base{
+    background-color: #899E8B;
+}
+
+.accent{
+    background-color: #607562;
+}
+
+.gray{
+    background-color: #272727;
+}
+
+.white{
+    background-color: #EBEBEB;
+}
+
+.whitetext{
+    color: white;
+}
+
+.about-text{
+    font-size: 15px;
+    text-align: justify;
+}
+
+
+.publications-col{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.member-photo{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
